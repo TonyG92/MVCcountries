@@ -1,0 +1,7 @@
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\bin\Debug\MVCcountries.exe.config
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\bin\Debug\MVCcountries.exe
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\bin\Debug\MVCcountries.pdb
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\obj\Debug\MVCcountries.csprojAssemblyReference.cache
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\obj\Debug\MVCcountries.csproj.CoreCompileInputs.cache
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\obj\Debug\MVCcountries.exe
+C:\Users\conqu\source\repos\MVCcountries\MVCcountries\obj\Debug\MVCcountries.pdb
